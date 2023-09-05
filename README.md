@@ -1,2 +1,2 @@
 # BoPlay
-Projeto só para brincas mesmo
+Projeto só para brincar mesmo.
